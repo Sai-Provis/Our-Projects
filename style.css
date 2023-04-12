@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#img-container {
+
+    background: url(images/image1.svg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 440px;
+    /* background-color: black; */
+    /* opacity:0.6; */
+    /* justify-content: center;
+    text-align: center; */
+    /* background: url(aerial-view-cargo-ship-cargo-container-harbor.jpg); */
+    /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
